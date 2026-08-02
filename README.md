@@ -15,7 +15,7 @@
 <parent>
     <groupId>com.fulsun</groupId>
     <artifactId>fulsun-parent</artifactId>
-    <version>1.0.0</version>
+    <version>4.0.1</version>
     <relativePath/>
 </parent>
 ```
